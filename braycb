@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+		<meta name=date content=2020-08-20>		
+		<meta name="Description" content="Tutoriel : programmer un jeu de Flappy bird en Java">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="Copyright" content="stéfan maurer">
+		<meta name="Author" lang="fr" content="stéfan maurer">
+		<meta http-equiv="imagetoolbar" content="no">		
+		<link href="../../images/mathmaurer.ico" rel="shortcut icon">		
+		<link href="../../styles/style_sommaire2.css" rel="stylesheet" type="text/css">	
+		<title>Tutoriel : programmer un jeu de Flappy bird en Java"</title>				
+	</head>
+	<body>	
+		<div id="enveloppe">
+			<img alt="bannière du site www.mathmaurer.com" src="../../images/banniere_mathmaurer.jpg">						
+<!-- Menu -->
+			<ul>				
+				<li><img alt="programmation en Java avec Eclipse" src="../../images/logo_java.png"></li>
+				<li><a href="../../index.html">Accueil</a></li>				
+				<li><a href="../sommaire_videos_java.html">Vidéos</a></li>
+				<li><a href="../sommaire_jeux_java.html">Jeux</a></li>
+				<li><a href="../telechargement_java.html">Télécharger Eclipse</a></li>
+			</ul>	
+<!-- Corps de page -->				
+			<h1>Tutoriel : programmer un jeu de Flappy bird en Java</h1>
+			<div class="block"> 
+				<h3>1 - Exécutable et ressources du jeu</h3>
+				<ul>
+					<li><a href="FlappyBird.jar">Téléchargement de l'exécutable du jeu</a></li>
+					<li><a href="Ressources_FlappyBird.zip">Téléchargement des ressources du jeu (avec le code complet)</a></li>
+				</ul>
+<!-- Pub -->		
+				<div id="pub">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+						<ins class="adsbygoogle"
+						     style="display:block"
+						     data-ad-client="ca-pub-8851257895742441"
+						     data-ad-slot="5048294281"
+						     data-ad-format="auto"></ins>
+					<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+				</div>			
+				<h3>2 - Tutoriel de programmation du jeu en vidéo</h3>
+				<ul>
+		      <li><a href="https://youtu.be/DipY7zyBhEU" target="_blank">I - Présentation du jeu</a></li>
+		      <li><a href="https://youtu.be/4MRTbiaRxM4" target="_blank">II - Fenêtre du jeu et fond d'écran</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="FlappyBird_01.zip"><span class="vert">*** code source ***</span></a></li>
+		      <li><a href="https://youtu.be/OQLqtfr2lRs" target="_blank">III - Défilement du fond d'écran</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="FlappyBird_02.zip"><span class="vert">*** code source ***</span></a></li>
+		      <li><a href="https://youtu.be/xA0ZzxsY0ZE" target="_blank">IV - Création des tuyaux</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="FlappyBird_03.zip"><span class="vert">*** code source ***</span></a></li>		      
+		      <li><a href="https://youtu.be/IzAByZmeT64" target="_blank">V - Position et déplacement des tuyaux</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="FlappyBird_04.zip"><span class="vert">*** code source ***</span></a></li>
+		      <li><a href="https://youtu.be/dhL51c-7Wdo" target="_blank">VI - Création de la classe FlappyBird</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="FlappyBird_05.zip"><span class="vert">*** code source ***</span></a></li>		      
+		      <li><a href="https://youtu.be/Pv7qsrfj4Mo" target="_blank">VII - Déplacement de FlappyBird</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="FlappyBird_06.zip"><span class="vert">*** code source ***</span></a></li>		      
+		      <li><a href="https://youtu.be/lTUO_CK2ILk" target="_blank">VIII - Gestion des collisions entre FlappyBird et les tuyaux</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="FlappyBird_07.zip"><span class="vert">*** code source ***</span></a></li>
+		      <li><a href="https://youtu.be/kcf_oKcNImA" target="_blank">IX - Affichage score et ajout de la classe Audio pour les sons</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="FlappyBird_08.zip"><span class="vert">*** code source ***</span></a></li>	      
+				</ul>	
+			</div>			
+		</div>  					 		
+<!-- analytics -->
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');	
+		  ga('create', 'UA-1856210-1', 'auto');
+		  ga('send', 'pageview');	
+		</script>
+	</body>
+</html>
